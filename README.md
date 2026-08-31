@@ -18,7 +18,7 @@ This repository is a public cryptographic priority commitment for an independent
 
 ## Committed result
 
-The official fresh-render and axiom-check evaluator reports:
+A local run of the fresh-render and axiom-check evaluator code shipped in the frozen Vero repository reports:
 
 - build: **OK**
 - filled and passed: **6**
